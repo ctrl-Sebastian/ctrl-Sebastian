@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ctrl-Sebastian
-- 👀 I’m interested in learning to code, anime, videogames and a lot more.
-- 🌱 I’m currently learning html, CSS, JS, bootstrap, javascript to be a full stack web developer.
+- 👀 I’m interested in game development, anime, videogames and a lot more.
+- 🌱 I’m currently learning c# for unity, html, CSS, JS, bootstrap, javascript to be a full stack web developer.
 - 💞️ I’m looking to collaborate on programs that are used on web pages
 - 📫 How to reach me: SebastianIPL0131@gmail.com or 829-367-1803
