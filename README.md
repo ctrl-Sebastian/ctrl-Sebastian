@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ctrl-Sebastian<br>👀 I’m interested in FullStack Software Development and Game Development.<br>📫 How to reach me: SebastianIPL0131@gmail.com or 829-367-1803
+👋 Hi, I’m @ctrl-Sebastian<br>👀 I’m interested in FullStack Software Development and Game Development.<br>📫 How to reach me: SebastianIPL0131@gmail.com
 
 
 ## 🌐 Socials:
